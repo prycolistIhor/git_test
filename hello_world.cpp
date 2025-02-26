@@ -3,7 +3,7 @@
 int main()
 {
     std::cout << "Hello, world!" << std::endl;
-    int a;
-    std::cin >> a;
+    int b;
+    std::cin >> b;
     return 0;
 }
